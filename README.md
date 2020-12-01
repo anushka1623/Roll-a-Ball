@@ -43,11 +43,11 @@ git clone https://github.com/anushka1623/RollaBall.git
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/anushka1623/Roll-a-Ball/blob/master/Images/GameMenuScreenshot.png" width="300" />
+  <img src="https://github.com/anushka1623/Roll-a-Ball/blob/master/Images/GameMenuScreenshot.png" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/anushka1623/Roll-a-Ball/blob/master/Images/GameScreenshot.png" width="300"/>
+  <img src="https://github.com/anushka1623/Roll-a-Ball/blob/master/Images/GameScreenshot.png" width="500"/>
 </p>
 
 ## Credits
