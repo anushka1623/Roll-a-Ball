@@ -6,7 +6,7 @@ RollaBall is a fun single player game :tada:, where you have to complete an obje
 | --------------- | -------- |  ----------- |  ----------- |
 
 <p align="center">
-  ![](https://github.com/anushka1623/Roll-a-Ball/blob/master/GIFs/GIF.gif)
+  <img src='https://github.com/anushka1623/Roll-a-Ball/blob/master/GIFs/GIF.gif'>
 </p>
 
 ## Getting Started
@@ -26,7 +26,7 @@ Make sure you have the below requirements before starting:
 
 ## Play The Game
 
-In order to play the game, first clone the repository locally.
+In order to play the game, first clone the repository locally.(#play)
 Then go to Builds>RollaBall.exe  :star:
 
 This will start the game in your PC.
